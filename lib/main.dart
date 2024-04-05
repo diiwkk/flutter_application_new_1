@@ -64,7 +64,7 @@ class MainScreen extends StatelessWidget {
     return CustomConfig(
       gradients: [
         [Colors.blue, Colors.blue.shade200],
-        [Colors.blue.shade200, Colors.blue.shade100],
+        [Colors.blue.shade200, Colors.blue.shade200],
       ],
       durations: [5000, 4000],
       heightPercentages: [0.25, 0.30],
